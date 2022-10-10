@@ -1,6 +1,6 @@
 # Student Attendance Management App UI Flutter | Backend Firebase
 Group 8 
-Develope by - SHUBHAM GHOGARE
+Develope by - Nandini Gujarathi, Sanjana Amale, Vishakha Patil, Shubham Ghogare, Shubham Dhawale, Pradyumna Tanpure
 
 Flutter based Student Attendance Management App | Flutter | Backend Firebase
 
